@@ -1,0 +1,61 @@
+# Diese viminfo-Datei wurde von Vim 7.4 generiert.
+# Sie können sie verändern, wenn Sie vorsichtig vorgehen!
+
+# Wert von 'encoding', als diese Datei geschrieben wurde
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Befehlszeile Geschichte (neueste bis älteste):
+:x
+
+# Suchausdruck Geschichte (neueste bis älteste):
+
+# Ausdruck Geschichte (neueste bis älteste):
+
+# Eingabe-Zeile Geschichte (neueste bis älteste):
+
+# Eingabe-Zeile Geschichte (neueste bis älteste):
+
+# Register:
+
+# Datei-Marken:
+'0  46  0  ~/public_html/ARBEIT/crealytics/technical_support_tests/README.md
+'1  1  28  ~/public_html/ARBEIT/crealytics/technical_support_tests/Gemfile
+'2  22  0  ~/.gitconfig
+
+# Geschichte (neueste zuerst):
+-'  46  0  ~/public_html/ARBEIT/crealytics/technical_support_tests/README.md
+-'  1  0  ~/public_html/ARBEIT/crealytics/technical_support_tests/README.md
+-'  1  28  ~/public_html/ARBEIT/crealytics/technical_support_tests/Gemfile
+-'  2  0  ~/public_html/ARBEIT/crealytics/technical_support_tests/Gemfile
+-'  22  0  ~/.gitconfig
+-'  22  0  ~/.gitconfig
+-'  1  28  ~/public_html/ARBEIT/crealytics/technical_support_tests/Gemfile
+-'  2  0  ~/public_html/ARBEIT/crealytics/technical_support_tests/Gemfile
+-'  22  0  ~/.gitconfig
+-'  22  0  ~/.gitconfig
+
+# Geschichte der Markierungen innerhalb von Dateien (neueste zuerst):
+
+> ~/public_html/ARBEIT/crealytics/technical_support_tests/README.md
+	"	46	0
+	^	46	0
+	.	45	5
+	+	3	63
+	+	26	0
+	+	27	0
+	+	45	5
+
+> ~/public_html/ARBEIT/crealytics/technical_support_tests/Gemfile
+	"	1	28
+	^	1	29
+	.	1	0
+	+	1	0
+
+> ~/.gitconfig
+	"	22	0
+	^	22	0
+	.	16	0
+	+	16	0
